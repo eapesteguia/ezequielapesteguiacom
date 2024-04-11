@@ -1,0 +1,5 @@
+#ignore config for GIT
+.vscode/
+.sass-cache
+.env
+*.txt
